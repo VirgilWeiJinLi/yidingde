@@ -1,1 +1,2 @@
 function A version 1
+modify func A version 2
