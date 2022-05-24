@@ -1,1 +1,2 @@
 I am new common method 3
++++update function
