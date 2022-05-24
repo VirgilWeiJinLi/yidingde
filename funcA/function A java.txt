@@ -1,0 +1,3 @@
+function A version 1
+modify func A version 2
+I merge main branch's latest commit and do some self work here version 3
