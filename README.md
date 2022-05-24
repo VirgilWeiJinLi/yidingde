@@ -1,2 +1,2 @@
 # yidingde
-yi ding yao ok
+use bash to try
