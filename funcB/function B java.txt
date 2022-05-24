@@ -1,2 +1,3 @@
 wrote sth as func B version 1
 now edit version 2
+function B +++++ V3
